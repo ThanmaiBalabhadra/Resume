@@ -1,11 +1,6 @@
 # Resume
-%%%%%%%%%%%%%%%%%
-% This is an sample CV template created using altacv.cls
-% (v1.7, 9 Aug 2023) written by LianTze Lim (liantze@gmail.com), based on the
-% CV created by BusinessInsider at http://www.businessinsider.my/a-sample-resume-for-marissa-mayer-2016-7/?r=US&IR=T
-%
-%% It may be distributed and/or modified under the
-%% conditions of the LaTeX Project Public License, either version 1.3
+- %% It may be distributed and/or modified under the
+- %% conditions of the LaTeX Project Public License, either version 1.3
 %% of this license or (at your option) any later version.
 %% The latest version of this license is in
 %%    http://www.latex-project.org/lppl.txt
